@@ -21,18 +21,18 @@ body {
   font-weight: normal;
   line-height: 1.5;
   color: #0a0a0a;
-  background: #fefefe;
-  background: #000;
+  background: #232526;
   transform: translateX(0px);
   transition: all 0.4s ease-out;
 }
 
 article {
-  background: #fefefe;
+  background: #232526;
 }
 
 h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
+  color:#d8d5d2;
 }
 
 h5{
@@ -51,7 +51,7 @@ h6{
 
 p{
   font-size: 15px;
-  color: #666;
+  color: #888;
 }
 
 a {
@@ -63,7 +63,7 @@ a {
   min-width: 320px;
   height: 100%;
   min-height: 100%;
-  background: #fefefe;
+  background: #232526;
 }
 
 .flex-row-wrap {
@@ -82,7 +82,8 @@ a {
   width: 100%;
   max-width: 1200px;
   padding: 40px 50px 30px;
-  background: #fefefe;
+  background: #232526;
+  color: #AAAAAA;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -229,7 +230,8 @@ nav a span {
 
 .portfolio-intro h1 {
   font-size: 1.5rem;
-  color: #0a0a0a;
+  color: darkred;
+  text-shadow: 1px 2px red, -2px 2px #DDDDDD;
   margin: 0 auto 8px;
 }
 
@@ -247,7 +249,6 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.25px;
   text-transform: uppercase;
-  color: #222;;
   margin: 0 auto 8px;
 }
 

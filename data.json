@@ -4,42 +4,42 @@
 			"id":0,
 			"project_name":"A Random Quote Generator",
 			"description":"An application that uses javascript to show a random quote.",
-			"technologies":["",""],
-			"live_link":"",
+			"technologies":["HTML","CSS", "JavaScript"],
+			"live_link":"https://dancingdragon.github.io/A-Random-Quote-Generator/",
 			"github_link":"https://github.com/DancingDragon/A-Random-Quote-Generator",
-			"image_urls":["images/quotes1.png", "images/quotes2.png"]
+			"image_urls":["/images/quotes1.png", "/images/quotes2.png"]
 		},{
 			"id":1,
 			"project_name":"Data Pagination and Filtering",
 			"description":"Project to show some filetering and searching of data.+",
-			"technologies":["",""],
-			"live_link":"",
+			"technologies":["HTML","CSS", "JavaScript"],
+			"live_link":"https://dancingdragon.github.io/Data-Pagination-and-Filtering/",
 			"github_link":"https://github.com/DancingDragon/Data-Pagination-and-Filtering",
-			"image_urls":["images/pagination1.png", "images/pagination2.png"]
+			"image_urls":["/images/pagination1.png", "/images/pagination2.png"]
 		},{
 			"id":2,
 			"project_name":"Interactive Form",
 			"description":"A form with some input error handling,",
-			"technologies":["",""],
-			"live_link":"",
+			"technologies":["HTML","CSS", "JavaScript"],
+			"live_link":"https://dancingdragon.github.io/Interactive-Form/",
 			"github_link":"https://github.com/DancingDragon/Interactive-Form",
-			"image_urls":["images/form1.png", "images/form2.png"]
+			"image_urls":["/images/form1.png", "/images/form2.png"]
 		},{
 			"id":3,
 			"project_name":"OOP Game Show App",
 			"description":"A browser based guessing game, based on Object Oriented Programming.",
-			"technologies":["",""],
-			"live_link":"",
+			"technologies":["HTML","CSS", "JavaScript, OOP"],
+			"live_link":"https://dancingdragon.github.io/OOP-Game-Show-App/",
 			"github_link":"https://github.com/DancingDragon/OOP-Game-Show-App",
-			"image_urls":["images/phrase1.png", "images/phrase2.png"]
+			"image_urls":["/images/phrase1.png", "/images/phrase2.png"]
 		},{
 			"id":4,
 			"project_name":"Public API Requests ",
 			"description":"A project that uses randomuser.me API to create random users",
-			"technologies":["",""],
-			"live_link":"",
+			"technologies":["HTML","CSS", "JavaScript, Fetch and Public APIs"],
+			"live_link":"https://dancingdragon.github.io/Public-API-Requests/",
 			"github_link":"https://github.com/DancingDragon/Public-API-Requests",
-			"image_urls":["images/startup1.png", "images/startup2.png"]
+			"image_urls":["/images/startup1.png", "/images/startup2.png"]
 		}
 	]
 }
